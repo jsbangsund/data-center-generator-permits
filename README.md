@@ -6,6 +6,8 @@ Casomar, C., & Bangsund, J. (2026). *A community guide: Limiting harm from diese
 
 Currently, this repository only contains data from Virginia. More states may be added in the future.
 
+![Growth of permitted generator capacity in Virginia](plots/va_permitted_capacity_growth.png)
+
 # Notes, limitations, and known issues
 
  - Virginia air permits submitted up to 12/31/2025 have been analyzed. Permits were taken from the VA Department of Environmental Quality website: https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers
