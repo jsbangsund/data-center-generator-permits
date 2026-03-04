@@ -2,7 +2,7 @@
 Data and analysis of back-up power and generators for data centers extracted from air quality permits.
 
 If you find this data useful, please reference our report on diesel generators used for data centers:
-Casomar, C., & Bangsund, J. (2026). *A community guide: Limiting harm from diesel generators at data centers*. Better Data Center Project.
+Casomar, C., & Bangsund, J. (2026). [*Diesel Generators at Data Centers: Status, Impacts, and Protective Practices*](https://betterdatacenterproject.com/resources/diesel-generator-report/). Better Data Center Project.
 
 Currently, this repository only contains data from Virginia. More states may be added in the future.
 
